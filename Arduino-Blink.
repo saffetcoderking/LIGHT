@@ -1,0 +1,6 @@
+git init
+git add blink.ino
+git commit -m "Eerste commit - LED blink code"
+git branch -M main
+git remote add origin https://github.com/jouwgebruikersnaam/Arduino-Blink.git
+git push -u origin main
